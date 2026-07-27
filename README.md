@@ -11,7 +11,7 @@
 ### 🎓 Rajeev Gandhi Memorial College of Engineering and Technology
 **B.Tech – Computer Science and Engineering (Data Science)**  
 📅 2023 – 2027  
-📊 CGPA: 7.99  
+📊 CGPA: 8.04  
 
 ### 🏫 Narayana Junior College, Tirupati
 📊 Percentage: 92%  
